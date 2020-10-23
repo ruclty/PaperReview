@@ -11,3 +11,9 @@
 ### A Kernel Theory of Modern Data Augmentation
 * [Paper Link](http://proceedings.mlr.press/v97/dao19b.html)
 * A theoretical analysis of data augmentation. It provide a general model of augmentation as a Markov process, and show that kernels appear naturally with respect to this model.
+
+### Model Patching: Closing the Subgroup Performance Gap with Data Augmentation
+* [Paper Link](https://arxiv.org/abs/2008.06775)
+* Address the issue of subgroup classifier by data augmentation.
+
+
