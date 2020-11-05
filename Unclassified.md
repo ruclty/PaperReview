@@ -22,3 +22,12 @@
 
 ### AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE
 * [Paper Link](https://openreview.net/pdf?id=YicbFdNTTy)
+
+### Exploiting Unintended Feature Leakage in Collaborative Learning
+* [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835269)
+
+### Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning
+* [Paper Link](https://arxiv.org/pdf/1702.07464.pdf)
+
+### Deep Leakage from Gradients
+* [Paper Link](https://papers.nips.cc/paper/2019/file/60a6c4002cc7b29142def8871531281a-Paper.pdf)
