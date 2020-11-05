@@ -31,3 +31,7 @@
 
 ### Deep Leakage from Gradients
 * [Paper Link](https://papers.nips.cc/paper/2019/file/60a6c4002cc7b29142def8871531281a-Paper.pdf)
+
+### Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures
+* [Paper Link](https://dl.acm.org/doi/pdf/10.1145/2810103.2813677)
+
