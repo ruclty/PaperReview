@@ -35,3 +35,7 @@
 ### Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures
 * [Paper Link](https://dl.acm.org/doi/pdf/10.1145/2810103.2813677)
 
+### Federated Multi-Task Learning
+* Federated Learning
+* [Paper Link](https://arxiv.org/pdf/1705.10467v2.pdf)
+
