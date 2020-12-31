@@ -39,3 +39,6 @@
 * Federated Learning
 * [Paper Link](https://arxiv.org/pdf/1705.10467v2.pdf)
 
+### Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion
+* Knowledge distillation & Model inversion
+* [Paper Link](https://arxiv.org/pdf/1912.08795.pdf)
