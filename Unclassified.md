@@ -42,3 +42,11 @@
 ### Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion
 * Knowledge distillation & Model inversion
 * [Paper Link](https://arxiv.org/pdf/1912.08795.pdf)
+
+### The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks
+* Model inversion
+* [Paper Link](https://arxiv.org/pdf/1911.07135.pdf)
+
+### Black-box Model Inversion Attribute Inference Attacks on Classification Models
+* Model inversion
+* [Paper Link](https://arxiv.org/pdf/2012.03404.pdf)
