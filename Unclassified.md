@@ -50,3 +50,7 @@
 ### Black-box Model Inversion Attribute Inference Attacks on Classification Models
 * Model inversion
 * [Paper Link](https://arxiv.org/pdf/2012.03404.pdf)
+
+### End-to-End Multi-Perspective Matching for Entity Resolution
+* Entity Matching
+* [Paper Link](https://www.ijcai.org/Proceedings/2019/689)
