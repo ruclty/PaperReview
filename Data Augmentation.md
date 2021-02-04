@@ -16,4 +16,7 @@
 * [Paper Link](https://arxiv.org/abs/2008.06775)
 * Address the issue of subgroup classifier by data augmentation.
 
+### ARDA: Automatic Relational Data Augmentation for Machine Learning
+* [Paper Link](http://www.vldb.org/pvldb/vol13/p1373-chepurko.pdf)
+
 
